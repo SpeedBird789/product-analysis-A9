@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import loadReviews from '../../CustomHook/LoadReviews';
 import CustomLink from '../CustomLink/CustomLink';
 import Review from '../Review/Review';
@@ -9,6 +10,8 @@ import './Home.css';
 const Home = () => {
 
     const [reviews, setReviews] = loadReviews();
+
+    const navigate = useNavigate();
     
     return (
         <div>
@@ -19,7 +22,7 @@ const Home = () => {
                reviews.slice(0,3).map(review => <Review key={review.id} review={review}></Review>)
             }
           
-            <button className='home-btn'>
+            <button className='home-btn' onClick={()=> navigate('/reviews')}>
                 See All Reviews
             </button>
         </div>
