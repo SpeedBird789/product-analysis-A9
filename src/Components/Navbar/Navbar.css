@@ -1,0 +1,14 @@
+.navbar{
+    margin-top: 25px;
+}
+
+.navbar a{
+    text-decoration: none;
+    margin-right: 15px;
+    font-size: 22px;
+}
+
+.navbar a:hover{
+    color: red;
+    font-weight: bolder;
+}
