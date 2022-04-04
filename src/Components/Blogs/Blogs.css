@@ -1,5 +1,9 @@
 .QnA{
     margin-left: 50px;
-    margin-right: 50px;
+    margin-right: 175px;
     margin-top: 40px;
+}
+
+.QnA h2{
+    color: rgb(157, 105, 105);
 }
