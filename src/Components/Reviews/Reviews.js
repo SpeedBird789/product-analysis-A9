@@ -8,7 +8,7 @@ const Reviews = () => {
     const [reviews, setReviews] = loadReviews();
 
     return (
-        <div>
+        <div className='all-reviews'>
            <h1 className='reviews-heading'>What Our Customers Say</h1> 
            {/* <h3>Number of reviews: {reviews.length}</h3> */}
            {

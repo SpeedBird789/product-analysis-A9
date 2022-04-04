@@ -1,0 +1,12 @@
+.about{
+    margin-left: 90px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: aliceblue;
+    padding: 20px 35px;
+}
+
+.about-heading{
+    text-align: center;
+}
