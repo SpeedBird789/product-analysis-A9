@@ -1,0 +1,15 @@
+.home-btn{
+    margin-bottom: 40px;
+    width: 90px;
+    height: 25px;
+    color: white;
+    font-weight: bolder;
+    font-size: medium;
+    background-color: rgb(12, 129, 232);
+    margin-left: 75px;
+    border-radius: 5px;
+}
+
+.customer-reviews{
+    text-align: center;
+}

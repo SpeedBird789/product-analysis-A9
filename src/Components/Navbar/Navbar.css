@@ -1,5 +1,8 @@
 .navbar{
-    margin-top: 25px;
+    margin-top: -5px;
+    background-color: rgb(221, 251, 251);
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .navbar a{

@@ -1,0 +1,15 @@
+.top-page{
+    display: flex;
+    margin-top: 40px;
+    margin-right: 85px;
+    margin-left: 85px;
+}
+
+.description{
+    margin-top: 100px;
+    
+}
+
+.paragraph{
+    width: 60%;
+}

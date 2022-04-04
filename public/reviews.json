@@ -2,42 +2,42 @@
     {
         "id": 1,
         "name": "Simon Harmer",
-        "review": "- Wonderful product. Have been using it for months now with no technical glitch. Much recommended!",
+        "review": "- 'Wonderful product. Have been using it for months now with no technical glitch. Much recommended!'",
         "rating": "4.6 stars"
 
     },
     {
         "id": 2,
         "name": "Kate Cross",
-        "review": "- I absolutely love it. Can't even think of my day without it!",
+        "review": "- 'I absolutely love it. Can't even think of my day without it!'",
         "rating": "4.5 stars"
 
     },
     {
         "id": 3,
         "name": "Dean Elgar",
-        "review": "- Going well so far. Was really pleased with their rapid delivery. Was delivered a day before I was expecting it.",
+        "review": "- 'Going well so far. Was really pleased with their rapid delivery. Was delivered a day before I was expecting it.'",
         "rating": "4.2 stars"
 
     },
     {
         "id": 4,
         "name": "Mohit Verma",
-        "review": "- Does it's job well. Can't complain. A bit pricey nevertheless",
+        "review": "- 'Does it's job well. Can't complain. A bit pricey nevertheless'",
         "rating": "4.1 stars"
 
     },
     {
         "id": 5,
         "name": "Ellyse Perry",
-        "review": "- Love thier products. Always top notch and delivers as usual. Customer service stands out for me",
+        "review": "- 'Love thier products. Always top notch and delivers as usual. Customer service stands out for me'",
         "rating": "4.4 stars"
 
     },
     {
         "id": 6,
         "name": "Nathan Lyon",
-        "review": "- Nothing to complain. My 6 year old loves it. Always on it so I don't have to be with her all the time yikes. But on a more serious note, absolutely brilliant.",
+        "review": "- 'Nothing to complain. My 6 year old loves it. Always on it so I don't have to be with her all the time yikes. But on a more serious note, absolutely brilliant.'",
         "rating": "4.8 stars"
     }
 ]
