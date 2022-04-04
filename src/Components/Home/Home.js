@@ -1,16 +1,14 @@
 import React, { useEffect, useState } from 'react';
+import loadReviews from '../../CustomHook/LoadReviews';
+import CustomLink from '../CustomLink/CustomLink';
 import Review from '../Review/Review';
+import Reviews from '../Reviews/Reviews';
 import TopPage from '../TopPage/TopPage';
 import './Home.css';
 
 const Home = () => {
 
-    const [reviews, setReviews] = useState([]);
-    useEffect( () => {
-        fetch('reviews.json')
-        .then(res => res.json())
-        .then(data => setReviews(data));
-    }, [])
+    const [reviews, setReviews] = loadReviews();
     
     return (
         <div>
