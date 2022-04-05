@@ -10,7 +10,7 @@ const Reviews = () => {
     return (
         <div className='all-reviews'>
            <h1 className='reviews-heading'>What Our Customers Say</h1> 
-           {/* <h3>Number of reviews: {reviews.length}</h3> */}
+           
            {
                reviews.map(review => <Review key={review.id} review={review}></Review>)
            }
