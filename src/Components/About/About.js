@@ -4,7 +4,7 @@ import './About.css';
 const About = () => {
     return (
         <div className='about'>
-            <h2 className='about-heading'>HI! WE ARE BEST BUY!</h2>
+            <h2 className='about-heading'>HI, WE ARE BEST BUY!</h2>
             <h4>We’re into connecting kids and toys through thoughtful design and community. With a full set of toy essentials, we make morning walks, subway commutes, and park visits easier and more joyful, for both you and your lil' one.</h4>
 
             <h3>KEEP IT SIMPLE</h3>
